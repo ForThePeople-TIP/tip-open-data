@@ -1,0 +1,93 @@
+industry_code,industry_name,sector_code,sector_name
+A01,Crop Production & Basic Processing,A,Agribusiness
+A02,Tobacco,A,Agribusiness
+A04,Dairy,A,Agribusiness
+A05,Poultry & Eggs,A,Agribusiness
+A06,Livestock,A,Agribusiness
+A07,Agricultural Services/Products,A,Agribusiness
+A09,Forestry & Forest Products,A,Agribusiness
+A10,Food Processing & Sales,A,Agribusiness
+B01,Printing & Publishing,B,Communications/Electronics
+B02,TV/Movies/Music,B,Communications/Electronics
+B08,Telecom Services & Equipment,B,Communications/Electronics
+B09,Electronics Mfg & Services,B,Communications/Electronics
+B12,Computer/Internet,B,Communications/Electronics
+B13,Internet,B,Communications/Electronics
+C01,General Contractors,C,Construction
+C04,Home Builders,C,Construction
+C05,Special Trade Contractors,C,Construction
+C06,Construction Services,C,Construction
+D01,Defense Aerospace,D,Defense
+D02,Defense Electronics,D,Defense
+D03,Misc Defense,D,Defense
+E01,Oil & Gas,E,Energy & Natural Resources
+E07,Mining,E,Energy & Natural Resources
+E08,Waste Management,E,Energy & Natural Resources
+E10,Environmental Svcs/Equipment,E,Energy & Natural Resources
+E12,Electric Utilities,E,Energy & Natural Resources
+E19,Alternative Energy,E,Energy & Natural Resources
+F01,Commercial Banks,F,"Finance, Insurance & Real Estate"
+F03,Securities & Investment,F,"Finance, Insurance & Real Estate"
+F04,Insurance,F,"Finance, Insurance & Real Estate"
+F06,Finance/Credit Companies,F,"Finance, Insurance & Real Estate"
+F07,Accountants,F,"Finance, Insurance & Real Estate"
+F09,Mortgage Bankers & Brokers,F,"Finance, Insurance & Real Estate"
+F10,Real Estate,F,"Finance, Insurance & Real Estate"
+F13,Hedge Funds/Private Equity,F,"Finance, Insurance & Real Estate"
+H01,Health Professionals,H,Health
+H02,Hospitals/Nursing Homes,H,Health
+H03,Health Services/HMOs,H,Health
+H04,Pharmaceuticals/Health Products,H,Health
+H05,Misc Health,H,Health
+K01,Lawyers/Law Firms,K,Lawyers & Lobbyists
+K02,Lobbyists,K,Lawyers & Lobbyists
+M01,Air Transport,M,Transportation
+M02,Automotive,M,Transportation
+M03,Trucking,M,Transportation
+M04,Railroads,M,Transportation
+M05,Sea Transport,M,Transportation
+M06,Misc Transport,M,Transportation
+N01,Food & Beverage,N,Misc Business
+N03,"Beer, Wine & Liquor",N,Misc Business
+N04,Retail Sales,N,Misc Business
+N05,Misc Services,N,Misc Business
+N06,Business Services,N,Misc Business
+N07,Recreation/Live Entertainment,N,Misc Business
+N08,Casinos/Gambling,N,Misc Business
+N09,Lodging/Tourism,N,Misc Business
+N12,Misc Manufacturing & Distributing,N,Misc Business
+N13,Steel/Metals/Mining,N,Misc Business
+N14,Textiles,N,Misc Business
+N15,Chemical & Related Manufacturing,N,Misc Business
+P01,Building Trade Unions,P,Labor
+P02,Industrial Unions,P,Labor
+P04,Transportation Unions,P,Labor
+P05,Public Sector Unions,P,Labor
+P06,Misc Unions,P,Labor
+Q01,Republican/Conservative,Q,Ideology/Single-Issue
+Q02,Democratic/Liberal,Q,Ideology/Single-Issue
+Q03,Leadership PACs,Q,Ideology/Single-Issue
+Q04,Foreign & Defense Policy,Q,Ideology/Single-Issue
+Q05,Pro-Israel,Q,Ideology/Single-Issue
+Q07,Environment,Q,Ideology/Single-Issue
+Q08,Human Rights,Q,Ideology/Single-Issue
+Q09,Guns Rights,Q,Ideology/Single-Issue
+Q10,Guns Control,Q,Ideology/Single-Issue
+Q11,Abortion Policy/Pro-Choice,Q,Ideology/Single-Issue
+Q12,Abortion Policy/Pro-Life,Q,Ideology/Single-Issue
+Q13,Women's Issues,Q,Ideology/Single-Issue
+Q14,Misc Issues,Q,Ideology/Single-Issue
+W01,Civil Servants/Public Officials,W,Other
+W02,Education,W,Other
+W03,Non-Profit Institutions,W,Other
+W04,Other,W,Other
+W05,Clergy & Religious Organizations,W,Other
+W06,Retired,W,Other
+W07,Military,W,Other
+Y00,Unknown,Y,Unknown
+Z00,Administrative,Z,Administrative Use
+Z01,Transfers,Z,Administrative Use
+Z09,Non-contribution,Z,Administrative Use
+C50,Building Materials & Equipment,C,Construction
+N00,Misc Business,N,Misc Business
+N02,Tobacco,N,Misc Business
