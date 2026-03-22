@@ -8,22 +8,22 @@ Includes federal and state legislation, official voting records, citizen approva
 
 | File | Description | Rows |
 |------|-------------|------|
-| federal_bills | Federal legislation (119th Congress) | 5,922 |
-| state_bills | State legislation across 49 states | 8,399 |
+| federal_bills | Federal legislation (119th Congress) | 5,940 |
+| state_bills | State legislation across 49 states | 8,422 |
 | federal_officials | Current members of Congress | 540 |
 | state_officials | State legislators across 49 states | 7,177 |
-| federal_floor_votes | Congressional roll call votes | 149,569 |
+| federal_floor_votes | Congressional roll call votes | 149,669 |
 | state_floor_votes | State legislative roll call votes | 28,495 |
 | citizen_approval | Aggregated citizen approval ratings (no PII) | 0 |
-| bill_vote_distributions | Aggregated citizen bill votes (no PII) | 61 |
-| federal_industry_funding | PAC industry funding per official (FEC) | 15,168 |
-| pfp_predictions | Multi-factor vote predictions per official per bill | 17,473 |
-| money_trail | Donor→vote→contract industry triangles | 53,651 |
+| bill_vote_distributions | Aggregated citizen bill votes (no PII) | 63 |
+| federal_industry_funding | PAC industry funding per official (FEC) | 15,811 |
+| pfp_predictions | Multi-factor vote predictions per official per bill | 18,001 |
+| money_trail | Donor→vote→contract industry triangles | 109,438 |
 | industry_taxonomy | CRP/OpenSecrets industry classification codes | 92 |
 
 ## Update Frequency
 
-Weekly (Sundays). Last refreshed: **2026-03-20**.
+Weekly (Sundays). Last refreshed: **2026-03-22**.
 
 ## File Formats
 
