@@ -11,11 +11,11 @@ Includes federal and state legislation, official voting records, citizen approva
 | federal_bills | Federal legislation (119th Congress) | 6,528 |
 | state_bills | State legislation across 49 states | 8,422 |
 | federal_officials | Current members of Congress | 540 |
-| state_officials | State legislators across 49 states | 7,650 |
+| state_officials | State legislators across 49 states | 7,690 |
 | federal_floor_votes | Congressional roll call votes | 155,646 |
-| state_floor_votes | State legislative roll call votes | 46,680 |
-| citizen_approval | Aggregated citizen approval ratings (no PII) | 1 |
-| bill_vote_distributions | Aggregated citizen bill votes (no PII) | 58 |
+| state_floor_votes | State legislative roll call votes | 57,980 |
+| citizen_approval | Aggregated citizen approval ratings (no PII) | 29 |
+| bill_vote_distributions | Aggregated citizen bill votes (no PII) | 64 |
 | federal_industry_funding | PAC industry funding per official (FEC) | 16,361 |
 | pfp_predictions | Multi-factor vote predictions per official per bill | 23,061 |
 | money_trail | Donor→vote→contract industry triangles | 109,438 |
@@ -24,7 +24,7 @@ Includes federal and state legislation, official voting records, citizen approva
 
 ## Update Frequency
 
-Weekly (Sundays). Last refreshed: **2026-04-05**.
+Weekly (Sundays). Last refreshed: **2026-04-12**.
 
 ## File Formats
 
