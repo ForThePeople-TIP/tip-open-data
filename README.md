@@ -8,10 +8,10 @@ Includes federal and state legislation, official voting records, citizen approva
 
 | File | Description | Rows |
 |------|-------------|------|
-| federal_bills | Federal legislation (119th Congress) | 18,190 |
+| federal_bills | Federal legislation (119th Congress) | 18,271 |
 | state_bills | State legislation across 49 states | 8,422 |
 | federal_officials | Current members of Congress | 540 |
-| state_officials | State legislators across 49 states | 7,912 |
+| state_officials | State legislators across 49 states | 7,655 |
 | federal_floor_votes | Congressional roll call votes | 241,403 |
 | state_floor_votes | State legislative roll call votes | 69,473 |
 | citizen_approval | Aggregated citizen approval ratings (no PII) | 5 |
@@ -24,7 +24,7 @@ Includes federal and state legislation, official voting records, citizen approva
 
 ## Update Frequency
 
-Weekly (Sundays). Last refreshed: **2026-08-09**.
+Weekly (Sundays). Last refreshed: **2026-08-16**.
 
 ## File Formats
 
