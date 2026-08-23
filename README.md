@@ -8,8 +8,8 @@ Includes federal and state legislation, official voting records, citizen approva
 
 | File | Description | Rows |
 |------|-------------|------|
-| federal_bills | Federal legislation (119th Congress) | 18,271 |
-| state_bills | State legislation across 49 states | 8,422 |
+| federal_bills | Federal legislation (119th Congress) with status; no AI summaries | 18,417 |
+| state_bills | State legislation with status and status_bucket; no AI summaries | 8,422 |
 | federal_officials | Current members of Congress | 540 |
 | state_officials | State legislators across 49 states | 7,655 |
 | federal_floor_votes | Congressional roll call votes | 241,403 |
@@ -20,11 +20,11 @@ Includes federal and state legislation, official voting records, citizen approva
 | pfp_predictions | Multi-factor vote predictions per official per bill | 75,657 |
 | money_trail | Donor→vote→contract industry triangles | 109,438 |
 | industry_taxonomy | CRP/OpenSecrets industry classification codes | 93 |
-| state_campaign_finance | State campaign finance contributions ($200+ threshold, 18 states) | 0 |
+| state_campaign_finance | State campaign finance contributions ($200+ threshold) | 0 |
 
 ## Update Frequency
 
-Weekly (Sundays). Last refreshed: **2026-08-16**.
+Weekly (Sundays). Last refreshed: **2026-08-23**.
 
 ## File Formats
 
@@ -53,7 +53,7 @@ Each dataset is available as CSV in the `data/` directory.
 
 ## API Access
 
-For real-time queries, use the [TIP Public API](https://truthinpolling.com/developers) — 18 REST endpoints, 17 MCP tools.
+For real-time queries, use the [TIP Public API](https://truthinpolling.com/developers) — 36 REST endpoints, 31 MCP tools.
 
 ## Data Notes
 
