@@ -8,7 +8,7 @@ Includes federal and state legislation, official voting records, citizen approva
 
 | File | Description | Rows |
 |------|-------------|------|
-| federal_bills | Federal legislation (119th Congress) with status; no AI summaries | 18,613 |
+| federal_bills | Federal legislation (119th Congress) with status; no AI summaries | 18,676 |
 | state_bills | State legislation with status and status_bucket; no AI summaries | 8,422 |
 | federal_officials | Current members of Congress | 555 |
 | state_officials | State legislators across 49 states | 7,650 |
@@ -24,7 +24,7 @@ Includes federal and state legislation, official voting records, citizen approva
 
 ## Update Frequency
 
-Weekly (Sundays). Last refreshed: **2026-09-06**.
+Weekly (Sundays). Last refreshed: **2026-09-13**.
 
 ## File Formats
 
