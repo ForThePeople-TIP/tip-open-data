@@ -2,7 +2,7 @@
 
 Nonpartisan civic accountability data from [Truth In Polling](https://truthinpolling.com) (501(c)(3) nonprofit).
 
-Includes federal and state legislation, official voting records, citizen approval ratings, campaign finance industry funding, multi-factor vote predictions, and donor-to-vote-to-contract money trail analysis.
+Includes federal and state legislation, official voting records, citizen approval ratings, and multi-factor vote predictions.
 
 ## Datasets
 
@@ -16,10 +16,7 @@ Includes federal and state legislation, official voting records, citizen approva
 | state_floor_votes | State legislative roll call votes | 69,473 |
 | citizen_approval | Aggregated citizen approval ratings (no PII) | 5 |
 | bill_vote_distributions | Aggregated citizen bill votes (no PII) | 63 |
-| federal_industry_funding | PAC industry funding per official (FEC) | 16,366 |
 | pfp_predictions | Multi-factor vote predictions per official per bill | 94,388 |
-| money_trail | Donor→vote→contract industry triangles | 109,438 |
-| industry_taxonomy | CRP/OpenSecrets industry classification codes | 93 |
 | state_campaign_finance | State campaign finance contributions ($200+ threshold) | 0 |
 
 ## Update Frequency
@@ -59,5 +56,4 @@ For real-time queries, use the [TIP Public API](https://truthinpolling.com/devel
 
 - All citizen-facing data (approval ratings, bill votes) is **aggregated** — no individual voter data is included.
 - Campaign finance data is from FEC bulk filings (1.6M federal contributions).
-- Money trail triangles correlate donations, votes, and contracts — **correlation does not imply causation**.
 - The United States is a Constitutional Republic.
