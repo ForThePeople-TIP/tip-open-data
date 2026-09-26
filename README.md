@@ -4,7 +4,7 @@ That column was not published by Congress. It was filled in by our own system â€
 
 For where a bill stands, use `latest_action_text` and `latest_action_date`. Those are Congress.gov's own words and date for the bill's most recent action.
 
-This copy of the federal bills file was last refreshed on 29 March 2026 and holds 6,242 bills, so it does not include later bills or actions.
+This copy of the federal bills file was last refreshed on 29 March 2026 and holds 6,242 bills, so it does not include later bills or actions. For 2,664 of those bills this copy records no latest action; look those bills up on Congress.gov.
 
 # TIP Civic Data â€” U.S. Government Accountability Dataset
 
@@ -16,20 +16,20 @@ Includes federal and state legislation, official voting records, citizen approva
 
 | File | Description | Rows |
 |------|-------------|------|
-| federal_bills | Federal legislation (119th Congress) with status; no AI summaries | 18,676 |
+| federal_bills | Federal legislation (119th Congress) with status; no AI summaries | 6,242 |
 | state_bills | State legislation with status and status_bucket; no AI summaries | 8,422 |
-| federal_officials | Current members of Congress | 555 |
-| state_officials | State legislators across 49 states | 7,650 |
-| federal_floor_votes | Congressional roll call votes | 241,403 |
-| state_floor_votes | State legislative roll call votes | 69,473 |
-| citizen_approval | Aggregated citizen approval ratings (no PII) | 5 |
-| bill_vote_distributions | Aggregated citizen bill votes (no PII) | 63 |
-| pfp_predictions | Multi-factor vote predictions per official per bill | 94,388 |
+| federal_officials | Current members of Congress | 540 |
+| state_officials | State legislators across 49 states | 7,392 |
+| federal_floor_votes | Congressional roll call votes | 155,646 |
+| state_floor_votes | State legislative roll call votes | 57,980 |
+| citizen_approval | Aggregated citizen approval ratings (no PII) | 29 |
+| bill_vote_distributions | Aggregated citizen bill votes (no PII) | 64 |
+| pfp_predictions | Multi-factor vote predictions per official per bill | 17,473 |
 | state_campaign_finance | State campaign finance contributions ($200+ threshold) | 0 |
 
 ## Update Frequency
 
-Weekly (Sundays). Last refreshed: **2026-09-13**.
+Updates are currently paused. Last refreshed: **2026-03-20** (oldest file) to **2026-04-12** (newest file).
 
 ## File Formats
 
