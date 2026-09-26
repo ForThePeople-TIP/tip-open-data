@@ -1,3 +1,11 @@
+**Notice — 26 September 2026: please ignore the `status` column in the federal bills file.**
+
+That column was not published by Congress. It was filled in by our own system — most rows simply say "active" — and it can be wrong: a bill the President has signed may still read "active". We have removed it from our site and our data services, and it will be removed from this file in a future release.
+
+For where a bill stands, use `latest_action_text` and `latest_action_date`. Those are Congress.gov's own words and date for the bill's most recent action.
+
+This copy of the federal bills file was last refreshed on 29 March 2026 and holds 6,242 bills, so it does not include later bills or actions.
+
 # TIP Civic Data — U.S. Government Accountability Dataset
 
 Nonpartisan civic accountability data from [Truth In Polling](https://truthinpolling.com) (501(c)(3) nonprofit).
