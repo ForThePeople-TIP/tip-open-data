@@ -39,6 +39,8 @@ Each dataset is available as CSV in the `data/` directory.
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — free to use with attribution.
 
+Some state bill data in these files comes from LegiScan (https://legiscan.com), used under CC BY 4.0.
+
 ## Citation
 
 ```bibtex
